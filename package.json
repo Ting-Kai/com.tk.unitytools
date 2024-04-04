@@ -1,0 +1,11 @@
+{
+  "author": "tk",
+  "description": "Some commonly used Unity scripts",
+  "displayName": "_TKUnityTools",
+  "keywords": [
+    "unity"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "com.tk.unitytools",
+  "version": "1.0.0"
+}

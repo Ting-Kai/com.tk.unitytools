@@ -1,0 +1,18 @@
+{
+    "name": "com.tk.unitytools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:663d57349b44b9c4fb265435a9e13799"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
