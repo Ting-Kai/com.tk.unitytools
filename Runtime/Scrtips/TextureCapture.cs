@@ -4,9 +4,8 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using Unity.Collections;
 
-public class TextureCapture : MonoBehaviour
+public class TextureCapture
 {
-
     public enum SaveTextureFileFormat
     {
         EXR, JPG, PNG, TGA
