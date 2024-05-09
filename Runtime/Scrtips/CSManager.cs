@@ -54,17 +54,17 @@ public class CSManager : MonoBehaviour
         textures = new List<RenderTexture>();
     }
 
-    private void OnDestroy()
+    protected virtual void OnDestroy()
     {
         Release();
     }
 
-    private void OnEnable()
+    protected virtual void OnEnable()
     {
         Release();
     }
 
-    private void OnDisable()
+    protected virtual void OnDisable()
     {
         Release();
     }
