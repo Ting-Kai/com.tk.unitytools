@@ -12,7 +12,7 @@ public class SaveTextureFile : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(Texture.allowThreadedTextureCreation);
+        Debug.Log($"Texture.allowThreadedTextureCreation: {Texture.allowThreadedTextureCreation}");
     }
 
     public void SaveFile()
