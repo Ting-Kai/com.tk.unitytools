@@ -4,16 +4,6 @@ using UnityEngine.Networking;
 
 public class LoadImageFile : MonoBehaviour
 {
-    /*
-    private void OtherScripts()
-    {
-        string path = "";
-        LoadImageFile.Instance.Load(path, tex => {
-
-        });
-    }
-    */
-
     public static LoadImageFile Instance
     {
         get
